@@ -56,8 +56,8 @@ ul {
     justify-content: space-around;
 }
 
-.logoML {
-    width: 50%;
+a .logoML {
+    width: 90%;
     padding-right: 10px;
 }
 
